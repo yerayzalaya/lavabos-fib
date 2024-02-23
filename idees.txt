@@ -1,0 +1,8 @@
+Objectiu: fer una pàgina on es puguin consultar totes les frases
+dels lavabos dels aularis amb: barra de cerca, cerca per edifici...
+Donar detallets de les frases (edifici, planta, H/D/N).
+
+Per fer:
+- BD frases?
+- Aspecte general pàgina web
+- Connectar web i BD?
