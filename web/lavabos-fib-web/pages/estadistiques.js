@@ -1,15 +1,15 @@
 import Head from 'next/head'
 import Link from 'next/link'
 
-const Reservori = () => {
+const Estadistiques = () => {
     return (
         <div>
             <Head>
-                <title>Lavabos FIB - Reservori</title>
+                <title>Lavabos FIB - Estadístiques</title>
             </Head>
             <Link href="/">Tornar a l'inici</Link>
         </div>
     )
 }
 
-export default Reservori
+export default Estadistiques
